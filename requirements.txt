@@ -9,9 +9,9 @@ Jinja2==3.1.6
 MarkupSafe==3.0.2
 packaging==23.2
 python-dotenv==1.2.2
-setuptools==78.1.1
+setuptools==83.0.0
 six==1.17.0
-Werkzeug==3.1.6
+Werkzeug==3.1.9
 certifi==2026.1.4
 charset-normalizer==3.4.4
 duckdb==1.4.3
